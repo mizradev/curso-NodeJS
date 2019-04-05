@@ -12,6 +12,7 @@ temas desarrollados para la app:
 - Git y Github para realizar backups del código
 
 ### App Clima
+Para obtener las ciudades y la longitud y latitud nos registramos en el [rapidapi] (https://rapidapi.com/dev132/api/city-geo-location-lookup).
 temas a desarrollar para la app del clima:
 - Consumo de APIs.
 - Llamadas HTTP hacia servidores externos.
