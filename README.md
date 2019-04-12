@@ -21,3 +21,21 @@ temas a desarrollar para la app del clima:
 - Uso servicios para obtener la dirección por nombre.
 - Uso de OpenWeather para obtener el clima.
 - Respaldos locales y remotos.
+
+### webserver sitio web básico.
+Temas desarrollados en este proyecto básico:
+- Uso y configuración de Express
+- Servir contenido estático
+- Template engines
+- Handebars (Helpers, Parciales, Variables)
+- Despliegues en Heroku y Github
+- Hacer carpetas públicas en la web
+
+### restserver beta 1
+Temas desarrollados en este proyecto:
+- Instalación y pruebas con MongoDB.
+- Peticiones HTTP (Get, Put, Post, Delete).
+- Aprender sobre códigos de error HTTP.
+- Códigos de error en Express.
+- Archivos para la configuración global.
+- Tips importantes en Postman.
